@@ -1,0 +1,27 @@
+Here is a dataset of 20 failed login attempts in CSV format:
+
+```
+"User ID","Login Hour","Device Type","Failed Login Reason"
+"001","08:00","Desktop","Wrong Password"
+"002","14:30","Mobile","Account Locked"
+"003","02:15","Tablet","Suspicious Location"
+"004","18:45","Desktop","Invalid Credentials"
+"005","10:00","Mobile","Two-Factor Authentication Required"
+"006","16:00","Tablet","Account Suspended"
+"007","06:30","Desktop","Wrong Username"
+"008","20:15","Mobile","Password Expiration Notice"
+"009","12:45","Tablet","Device Not Recognized"
+"010","04:00","Desktop","Login from Untrusted Network"
+"011","22:00","Mobile","Account Locked for Security Reasons"
+"012","08:30","Tablet","Two-Factor Authentication Failed"
+"013","18:00","Desktop","Invalid Password"
+"014","14:15","Mobile","Account Suspended for Inactivity"
+"015","02:45","Tablet","Device Not Compatible with App"
+"016","10:30","Desktop","Wrong Password (Caps Lock)"
+"017","16:15","Mobile","Two-Factor Authentication Required (New Device)"
+"018","06:00","Tablet","Account Locked for Security Reasons"
+"019","20:45","Desktop","Invalid Credentials"
+"020","12:00","Mobile","Suspicious Login from Untrusted Location"
+```
+
+Note that the values in each field are randomly generated and do not represent actual failed login attempts.
